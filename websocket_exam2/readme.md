@@ -11,6 +11,10 @@ https://curryyou.tistory.com/348
 > npm init -y
 > npm install ws
 > npm install express
+
+> node app.js
+
+http://localhost:30001/
 ```
 ---
 ### 예시
