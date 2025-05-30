@@ -8,7 +8,8 @@ https://curryyou.tistory.com/348
 > cd websocket_exam2
 
 > node -v
-> npm init -y
+// > npm init -y
+
 > npm install ws
 > npm install express
 
